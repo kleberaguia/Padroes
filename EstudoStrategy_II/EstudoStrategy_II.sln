@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoStrategy_II", "EstudoStrategy_II\EstudoStrategy_II.csproj", "{C7A65903-596B-4D55-A361-9CF53A72C934}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegraNegocio", "RegraNegocio", "{9EE49067-8377-4892-B7CE-3C515E5668B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegraNegocio_Strategy", "RegraNegocio_Strategy\RegraNegocio_Strategy.csproj", "{DEE92B3F-4B75-42D2-AAE3-E08EE6183C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoWeb", "CalculoWeb\CalculoWeb.csproj", "{032D609D-C0DC-40F5-845A-0902AF7B694B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A65903-596B-4D55-A361-9CF53A72C934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A65903-596B-4D55-A361-9CF53A72C934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A65903-596B-4D55-A361-9CF53A72C934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A65903-596B-4D55-A361-9CF53A72C934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE92B3F-4B75-42D2-AAE3-E08EE6183C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE92B3F-4B75-42D2-AAE3-E08EE6183C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE92B3F-4B75-42D2-AAE3-E08EE6183C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE92B3F-4B75-42D2-AAE3-E08EE6183C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{032D609D-C0DC-40F5-845A-0902AF7B694B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032D609D-C0DC-40F5-845A-0902AF7B694B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032D609D-C0DC-40F5-845A-0902AF7B694B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032D609D-C0DC-40F5-845A-0902AF7B694B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEE92B3F-4B75-42D2-AAE3-E08EE6183C24} = {9EE49067-8377-4892-B7CE-3C515E5668B6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09766E77-030D-4CF4-BB6F-1E0DC05EDAD6}
+	EndGlobalSection
+EndGlobal
