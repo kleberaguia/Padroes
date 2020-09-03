@@ -6,3 +6,11 @@ D:\projetos\EstudoPadroes\PadraoStrategy_II\EstudoStrategy_II\RegraNegocio_Strat
 D:\projetos\EstudoPadroes\PadraoStrategy_II\EstudoStrategy_II\RegraNegocio_Strategy\obj\Debug\netstandard2.0\RegraNegocio_Strategy.AssemblyInfo.cs
 D:\projetos\EstudoPadroes\PadraoStrategy_II\EstudoStrategy_II\RegraNegocio_Strategy\obj\Debug\netstandard2.0\RegraNegocio_Strategy.dll
 D:\projetos\EstudoPadroes\PadraoStrategy_II\EstudoStrategy_II\RegraNegocio_Strategy\obj\Debug\netstandard2.0\RegraNegocio_Strategy.pdb
+D:\projetos\EstudoPadroes\PadraoStrategy_II\Padroes\EstudoStrategy_II\RegraNegocio_Strategy\bin\Debug\netstandard2.0\RegraNegocio_Strategy.deps.json
+D:\projetos\EstudoPadroes\PadraoStrategy_II\Padroes\EstudoStrategy_II\RegraNegocio_Strategy\bin\Debug\netstandard2.0\RegraNegocio_Strategy.dll
+D:\projetos\EstudoPadroes\PadraoStrategy_II\Padroes\EstudoStrategy_II\RegraNegocio_Strategy\bin\Debug\netstandard2.0\RegraNegocio_Strategy.pdb
+D:\projetos\EstudoPadroes\PadraoStrategy_II\Padroes\EstudoStrategy_II\RegraNegocio_Strategy\obj\Debug\netstandard2.0\RegraNegocio_Strategy.csprojAssemblyReference.cache
+D:\projetos\EstudoPadroes\PadraoStrategy_II\Padroes\EstudoStrategy_II\RegraNegocio_Strategy\obj\Debug\netstandard2.0\RegraNegocio_Strategy.AssemblyInfoInputs.cache
+D:\projetos\EstudoPadroes\PadraoStrategy_II\Padroes\EstudoStrategy_II\RegraNegocio_Strategy\obj\Debug\netstandard2.0\RegraNegocio_Strategy.AssemblyInfo.cs
+D:\projetos\EstudoPadroes\PadraoStrategy_II\Padroes\EstudoStrategy_II\RegraNegocio_Strategy\obj\Debug\netstandard2.0\RegraNegocio_Strategy.dll
+D:\projetos\EstudoPadroes\PadraoStrategy_II\Padroes\EstudoStrategy_II\RegraNegocio_Strategy\obj\Debug\netstandard2.0\RegraNegocio_Strategy.pdb

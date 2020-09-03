@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\EstudoStrategy_II\\EstudoStrategy_II\\EstudoStrategy_II.csproj",
+      "projectUniqueName": "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\Padroes\\EstudoStrategy_II\\EstudoStrategy_II\\EstudoStrategy_II.csproj",
       "projectName": "EstudoStrategy_II",
-      "projectPath": "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\EstudoStrategy_II\\EstudoStrategy_II\\EstudoStrategy_II.csproj",
+      "projectPath": "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\Padroes\\EstudoStrategy_II\\EstudoStrategy_II\\EstudoStrategy_II.csproj",
       "packagesPath": "C:\\Users\\klebe\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\EstudoStrategy_II\\EstudoStrategy_II\\obj\\",
+      "outputPath": "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\Padroes\\EstudoStrategy_II\\EstudoStrategy_II\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -103,8 +103,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\EstudoStrategy_II\\RegraNegocio_Strategy\\RegraNegocio_Strategy.csproj": {
-              "projectPath": "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\EstudoStrategy_II\\RegraNegocio_Strategy\\RegraNegocio_Strategy.csproj"
+            "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\Padroes\\EstudoStrategy_II\\RegraNegocio_Strategy\\RegraNegocio_Strategy.csproj": {
+              "projectPath": "D:\\projetos\\EstudoPadroes\\PadraoStrategy_II\\Padroes\\EstudoStrategy_II\\RegraNegocio_Strategy\\RegraNegocio_Strategy.csproj"
             }
           }
         }

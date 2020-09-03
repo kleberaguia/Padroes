@@ -9,6 +9,12 @@
         {
             @Html.TextBox("txtNumero_1");
             @Html.TextBox("txtNumero_2");
+    <select name="operacao">
+        <option value="1">Soma</option>
+        <option value="2">Subtração</option>
+        <option value="3">Divisao</option>
+        <option value="4">Multiplicação</option>
+    </select>
 
             <input type="submit" formaction="@Url.Action("index", "Home")" name="Calcular" />
        }

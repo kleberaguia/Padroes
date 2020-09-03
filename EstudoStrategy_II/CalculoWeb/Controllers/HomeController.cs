@@ -23,7 +23,7 @@ namespace CalculoWeb.Controllers
 
         public IActionResult Index()
         {
-            _
+            
             return View();
         }
         [HttpPost]
@@ -31,20 +31,12 @@ namespace CalculoWeb.Controllers
         {
             string query1 = form["txtNumero_1"];
             string query2 = form["txtNumero_2"];
+            string query3 = form["operacao"];
 
             
 
-            ViewBag.Resultado = _factory.OperacaoEscolhida(Enum.Parse<RegraNegocio_Strategy.Enum.enumOperacoes>("3"), double.Parse(query1), double.Parse(query2));
-            //if (!string.IsNullOrWhiteSpace(query))
-            //{
-            //    //obtenha um objeto que impletemente a interface IEnumerable<SuaClass>, List<SuaClasse> por exemplo só que desssa vez filtrando, pois você tem a string query...
-            //    return View();
-            //}
-            //else
-            //{
-            //    //se nada foi digitado no campo da pesquisa retorne um collection com todos os seus dados... nada vai ser filtrado.
-            //    return View();
-            //}
+            ViewBag.Resultado = _factory.OperacaoEscolhida(Enum.Parse<RegraNegocio_Strategy.Enum.enumOperacoes>(query3), double.Parse(query1), double.Parse(query2));
+            
 
             return View();
         }
